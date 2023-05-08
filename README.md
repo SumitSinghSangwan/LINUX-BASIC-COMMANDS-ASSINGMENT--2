@@ -1,8 +1,10 @@
 # LINUX-BASIC-COMMANDS-ASSINGMENT--2
 
 # Assignment Part-3
---->>Playing with files
-        1. Create a file like nano file1.txt
+
+#-->>Playing with files
+      
+      1. Create a file like nano file1.txt
             o Edit some data and then save the file
         2. Now we will copy date from file1 to new file2
             o cp file1.txt file2.txt
